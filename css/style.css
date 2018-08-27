@@ -1,0 +1,42 @@
+
+html {
+    width: 100%;
+    overflow-x: hidden!important;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #000;
+    overflow-x: hidden!important;
+}
+
+#score {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+#leader {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+@media(max-width: 609px) {
+    canvas {
+        width: 100%;
+    }
+}
+
+@media(min-width: 609px) and (max-width:1370px) {
+
+    canvas {
+        width: 609px;
+    }
+}
