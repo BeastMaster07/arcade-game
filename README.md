@@ -10,7 +10,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 To run the project locally, follow these steps:
 
 1. Clone the project
-2. Open the index file in your web browser
+2. Open the **index.html** file in your web browser
 3. Enjoy the game!
 
 
